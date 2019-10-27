@@ -8,7 +8,7 @@
 # Site settings
 title: Angelo
 email: nice0001@gmail.com
-description: > Angelo is a minimal jekyll theme with a 3d menu bar. 
+description: Angelo is a minimal jekyll theme with a 3d menu bar. 
 baseurl: "" 
 url: "http://webjeda.com" # the base hostname & protocol for your site
 
