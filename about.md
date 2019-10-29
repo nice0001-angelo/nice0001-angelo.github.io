@@ -7,9 +7,11 @@ permalink: /about/
 
 This Page is a Bootstrap based theme. Any Bootstrap element can be used in the theme.
 
+Taji Mehal is the place of everyone knows.
+
 ![Gatok Jekyll Theme]({{site.baseurl}}/images/angelo-1.jpg)
 
-He is someone you shouldn't be messing with!
+My favorate Catholic Church located in Cremona where is famous for the maker of stradivarius
 ![Gatok Jekyll Theme]({{site.baseurl}}/images/angelo-2.jpg)
 
 
