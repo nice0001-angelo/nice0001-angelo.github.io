@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "12. Font for Pyplot"
+---
+
 ## 필요한 패키지 가져오기
 
 
