@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Docu
+title: Document
 img: image-5.png
 ---
 
