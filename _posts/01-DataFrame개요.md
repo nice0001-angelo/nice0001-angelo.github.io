@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "01. What is DataFrame"
+---
+
 # 데이터프레임 개요
 
 ### Pandas 란?
