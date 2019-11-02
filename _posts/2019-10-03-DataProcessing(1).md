@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "03. Data Pre-Processing"
+title:  "03. Data Pre-Processing(1)"
 ---
 
 # 데이터 전처리(1)
