@@ -1,3 +1,7 @@
+---
+layout: post
+title:  "28. Gmail Contents Gathering"
+---
 # Gmail 수집
 
 ## #01.연동준비
@@ -17,7 +21,7 @@ import datetime as dt     #내장모듈이므로 설치 불필요
 ```python
 imapaddr = "imap.gmail.com"
 username = "nice0001@gmail.com"     #구글 계정
-password = "iwefdpapdhiclmwz"       #앱 비밀번호
+password = ""       #앱 비밀번호
 ```
 
 iwefdpapdhiclmwz # 내가 gmail 로그인해서 생성한 앱 비밀번호 지메일 로그인후 생성 하는 것임
