@@ -1,3 +1,7 @@
+---
+layout: post
+title:  "27. Instagram Image Gathering"
+---
 # Instagram Image Gathering
 
 ## #01.필요한 모듈 참조
@@ -51,7 +55,7 @@ driver.get('https://www.instagram.com/accounts/login/')
 
 ```python
 myid = "01097347704"
-mypw = "7avatar3!@#"
+mypw = ""
 ```
 
 

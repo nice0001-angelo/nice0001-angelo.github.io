@@ -62,7 +62,7 @@ time.sleep(3)
 
 ```python
 myid = 'nice00001'
-mypw = '7avatar3!@#'
+mypw = ''
 
 # -> 전체문서(document)에서 id값에 의해(ById) 요소(Element)를 가져온 후 (get) 입력값(value)을 지정
 script = "document.getElementById('id').value='%s'"
