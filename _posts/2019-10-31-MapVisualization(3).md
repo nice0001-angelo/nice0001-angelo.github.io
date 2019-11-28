@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "31. MapVisualization(3)"
+title:  "31. Map Visualization(3)"
 ---
 # SVG파일을 이용한 지도 시각화
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "30. MapVisualization(2)"
+title:  "30. Map Visualization(2)"
 ---
 # 지도시각화 (2)
 
